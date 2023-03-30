@@ -2,9 +2,9 @@
     "users": [
       {
         "id": 1,
-        "username": "Gertrudis Tatterton",
-        "email": "gtatterton0@ehow.com",
-        "password": "asdf"
+        "fullname": "Avinash",
+        "email": "a@a",
+        "password": "a"
       }
     ],
     "recipes":[
