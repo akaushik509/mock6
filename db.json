@@ -4,7 +4,8 @@
         "id": 1,
         "fullname": "Avinash",
         "email": "a@a",
-        "password": "a"
+        "password": "a",
+	"tracker":[]
       }
     ],
     "recipes":[
