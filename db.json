@@ -41,5 +41,13 @@
 		"IMDB_Rating" : 7.2,
 		"ticket" : 200
 	}
+    ],
+   "gameuser": [
+      {
+        "id": 1,
+        "name": "Avinash",
+	"difficulty": "Easy"  
+        
+      }
     ]
   }
