@@ -2,10 +2,8 @@
     "users": [
       {
         "id": 1,
-        "fullname": "Avinash",
-        "email": "a@a",
-        "password": "a",
-	"tracker":[]
+        "name :"Avinash",
+	"difficulty": "Medium"
       }
     ],
     "recipes":[
@@ -41,13 +39,5 @@
 		"IMDB_Rating" : 7.2,
 		"ticket" : 200
 	}
-    ],
-   "gameuser": [
-      {
-        "id": 1,
-        "name": "Avinash",
-	"difficulty": "Easy"  
-        
-      }
     ]
   }
